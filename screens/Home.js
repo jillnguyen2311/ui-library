@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet } from 'react-native';
-import { View, TextField, Text, Button, Image } from 'react-native-ui-lib';
+import { View, Text, Button, Card, Image, Slider, Switch, Avatar } from 'react-native-ui-lib';
 
 export default function Home({ navigation }) {
     return (
